@@ -14,3 +14,17 @@
 14.	Write a program   to find the length of a string.
 15.	Write a program to perform Strassen’s Matrix Multiplication.
 16.	Write a program to perform Merge Sort.
+17.	Using Divide and Conquer strategy to find Max and Min value in the list.
+18.	Write a program   to generate all the prime numbers.
+19.	 Write a program to perform Knapsack problem using greedy techniques.
+20.	Write a program to perform MST using greedy techniques.
+21.	21.	, Using Dynamic programming concept to find out Optimal binary search tree.
+22.	Using Dynamic programming techniques to find binomial coefficient of a given number
+23.	Write a program   to find the reverse of a given number.
+24.	Write a program   to find the perfect number.
+25.	Write a program to perform travelling salesman problem using dynamic programming
+26.	Write a program for the given pattern
+                                    If n=4                                1
+                                                                        1 	2
+                                                                     1    2    3
+                                                                   1   2    3    4
