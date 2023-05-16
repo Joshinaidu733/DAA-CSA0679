@@ -1,0 +1,24 @@
+#include <stdio.h>
+
+int fak(int n) {
+    int fak_n;
+    if (n <= 1) {
+        fak_n = 1;
+    }
+    for (int i = 2; i <= n; i++) {
+        fak_n = fak_n * i;
+    }
+    return fak_n;
+}
+
+int bin(int n, int k) {
+    return fak(n) / (fak(k) * fak(n - k));
+}
+        
+int main() {
+    int n;
+    int k;
+    scanf("%d%d", &n, &k);
+    printf("%d\n", bin(n, k));
+    return 0;
+}
